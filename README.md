@@ -1,16 +1,17 @@
-# bmicalculator
+## bmicalculator
 
 A new Flutter project.
 
 ## Getting Started
+BMIcalculator is a simple BMI calculator project built using flutter technology. It uses the weight and height to ascertain the BMI of the user. 
 
-This project is a starting point for a Flutter application.
+## Built With
+1. Dart
+2. Flutter
+3. Fontawesome
+4. GoogleFont
 
-A few resources to get you started if this is your first Flutter project:
+## UI Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="957" alt="flutter" src="https://user-images.githubusercontent.com/48631109/211553929-edafdfc6-dfd3-42cc-b32a-83a406ea1470.PNG">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
